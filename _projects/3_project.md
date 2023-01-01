@@ -3,7 +3,7 @@ layout: page
 title: jürgen jost
 affiliation: Max Planck Institute, Leipzig
 description: will talk about <b>geometric data analysis</b> in comparison to topological one 
-datetalk: 26th Apr, 15:00 CET
+datetalk: 26th April, 15:00 CET
 importance: 3
 category: colloquia
 img: /assets/img/jost.png

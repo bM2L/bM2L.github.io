@@ -3,7 +3,7 @@ layout: page
 title: Marc Lackenby
 affiliation: University of Oxford
 description: will talk about <b>machine learning</b> and how he used it in <b>knot theory</b> 
-datetalk: 22nd Feb, 15:00 CET
+datetalk: 1st March, 15:00 CET
 importance: 1
 img: /assets/img/publication_preview/nature.png
 category: colloquia

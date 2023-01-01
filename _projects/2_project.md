@@ -3,7 +3,7 @@ layout: page
 title: elizabeth munch
 affiliation: Michigan State University
 description: will talk about <b>topological data analysis</b> and how she <b>applied it</b> 
-datetalk: 15th Mar, 15:00 CET
+datetalk: 15th March, 15:00 CET
 importance: 2
 category: colloquia
 img: /assets/img/munch.png
