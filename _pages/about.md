@@ -2,24 +2,23 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <b>Barcelona Mathematics and Machine Learning Colloquium Series</b>
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Contact: <a href="https://mat.uab.cat/~rubio/" target="new">Roberto Rubio</a>    <a href="mailto:%72%75%62%69%6F@%6D%61%74.%75%61%62.%63%61%74" title="email"><i class="fas fa-envelope"></i></a></p>
 
 news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: false  # includes social icons at the bottom of the page  # Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+The Barcelona Mathematics and Machine Learning (b=M<sup>2</sup>L) Colloquium Series aims to bring to a general audience of mathematicians, computer scientist and interested students the interactions between mathematics and machine learning, as well as their latest developments.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+What are the mathematics behind machine learning? What can machine learning do for mathematicians? <a href="attend">Sign up</a> to attend the 2023 colloquia, featuring <b>Marc Lackenby</b>, <b>Elizabeth Munch</b> and <b>Jürgen Jost</b>.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+This activity is organized by the <a href='https://www.uab.cat/matematiques/'>Department of Mathematics of the Universitat Autònoma de Barcelona</a> with the goal of gathering the Barcelona universities and research centres, but everyone is welcome! 

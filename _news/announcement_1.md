@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 22nd Feb 2023
 inline: true
 ---
 
-A simple inline announcement.
+We are starting the b=M<sup>2</sup>L colloquium series with Marc Lackenby.
