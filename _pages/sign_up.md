@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /sign up/
+permalink: /sign_up/
 title: sign up
 description: if you wish to attend, please enter your email address in the form below
 description: sign up now to get access to the Zoom/Teams room (if the maximum capacity is reached, you will receive a YouTube Live link)
