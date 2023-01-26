@@ -19,6 +19,6 @@ social: false  # includes social icons at the bottom of the page  # Edit `_bibli
 
 The Barcelona Mathematics and Machine Learning (<b>b=M<sup>2</sup>L</b>) Colloquium Series aims to bring to a general audience of mathematicians, computer scientist and interested students the <b>interactions between mathematics and machine learning</b>, as well as their <b>latest developments</b>.
 
-What are the mathematics behind machine learning? What can machine learning do for mathematicians? <a href="attend">Sign up</a> to attend the <a href="2023">2023 colloquia</a>, featuring <b>Marc Lackenby</b>, <b>Elizabeth Munch</b> and <b>Jürgen Jost</b>.
+What are the mathematics behind machine learning? What can machine learning do for mathematicians? <a href="sign_up">Sign up</a> to attend the <a href="2023">2023 colloquia</a>, featuring <b>Marc Lackenby</b>, <b>Elizabeth Munch</b> and <b>Jürgen Jost</b>.
 
 This activity is organized by the <a href='https://www.uab.cat/web/maths-department-1210142393255.html'>Department of Mathematics at the Universitat Autònoma de Barcelona</a> with the goal of gathering the Barcelona universities and research centres with the global community. <b>Everyone is welcome to join and contribute! </b> <a href="mailto:%72%6F%62%65%72%74%6F.%72%75%62%69%6F@%75%61%62.%63%61%74" title="email">Contact us.</a> 
