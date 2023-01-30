@@ -17,7 +17,7 @@ social: false  # includes social icons at the bottom of the page  # Edit `_bibli
 
 ---
 
-The Barcelona Mathematics and Machine Learning (<b>b=M<sup>2</sup>L</b>) Colloquium Series aims to bring to a general audience of mathematicians, computer scientist and interested students the <b>interactions between mathematics and machine learning</b>, as well as their <b>latest developments</b>.
+The Barcelona Mathematics and Machine Learning (<b>b=M<sup>2</sup>L</b>) Colloquium Series aims to bring to a general audience of mathematicians, computer scientists and interested students the <b>interactions between mathematics and machine learning</b>, as well as their <b>latest developments</b>.
 
 What are the mathematics behind machine learning? What can machine learning do for mathematicians? <a href="sign_up">Sign up</a> to attend the <a href="2023">2023 colloquia</a>, featuring <b>Marc Lackenby</b>, <b>Elizabeth Munch</b> and <b>Jürgen Jost</b>.
 
