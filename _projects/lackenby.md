@@ -16,6 +16,5 @@ category: colloquia
 Click here to convert to your local time: <a href='https://www.timeanddate.com/worldclock/fixedtime.html?msg=B%3DM2L+-+Marc+Lackenby&iso=20230222T1500&p1=31' target='time'>22nd February 15:00 CET </a>
 
 
-	
 
-After the talk, the slides and the recording will be available here.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/N5vghYGwARQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
