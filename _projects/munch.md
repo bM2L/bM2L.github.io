@@ -2,7 +2,7 @@
 layout: page
 title: elizabeth munch
 affiliation: Michigan State University
-description: will talk about 'Crafting Topological Features for Machine Learning Pipelines'</b> 
+description: will talk about 'Crafting Topological Features for Machine Learning Pipelines'
 datetalk: 15th March, 15:00 CET
 importance: 2
 category: colloquia
