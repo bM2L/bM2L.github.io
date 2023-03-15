@@ -15,6 +15,4 @@ img: /assets/img/munch.png
 
 Click to view your local time:  <a href='https://www.timeanddate.com/worldclock/fixedtime.html?msg=B%3DM2L+-+Elizabeth+Munch&iso=20230315T15&p1=31' target='time'>15:00 CET </a>
 
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/I8e4KlXEh_I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
