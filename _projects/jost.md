@@ -15,7 +15,7 @@ Here, I shall develop a notion of curvature that also applies to discrete spaces
 
 
 
-Click here to convert to your local time: <a href='https://www.timeanddate.com/worldclock/fixedtime.html?msg=B%3DM2L+-+J%C3%BCrgen+Jost&iso=20230419T1500&p1=31' target='time'>15:00 CET</a> 
+Click here to convert to your local time: 19th April <a href='https://www.timeanddate.com/worldclock/fixedtime.html?msg=B%3DM2L+-+J%C3%BCrgen+Jost&iso=20230419T1500&p1=31' target='time'>15:00 CET</a> 
 
 
 
