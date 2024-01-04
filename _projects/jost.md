@@ -5,7 +5,7 @@ affiliation: Max Planck Institute, Leipzig
 description: will talk about 'generalized curvatures and the geometry of data' 
 datetalk: 19th April, 15:00 CET
 importance: 3
-category: colloquia
+category: colloquia'23
 img: /assets/img/jost.png
 ---
 

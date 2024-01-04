@@ -6,7 +6,7 @@ description: will talk about 'using machine learning to formulate mathematical c
 datetalk: 22nd February, 15:00 CET
 importance: 1
 img: /assets/img/publication_preview/nature.png
-category: colloquia
+category: colloquia'23
 ---
 
 <p>

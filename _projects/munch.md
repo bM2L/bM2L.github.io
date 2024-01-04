@@ -5,7 +5,7 @@ affiliation: Michigan State University
 description: will talk about 'Crafting Topological Features for Machine Learning Pipelines'
 datetalk: 15th March, 15:00 CET
 importance: 2
-category: colloquia
+category: colloquia'23
 img: /assets/img/munch.png
 ---
 
