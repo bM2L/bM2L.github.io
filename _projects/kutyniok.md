@@ -5,7 +5,7 @@ affiliation: Ludwig-Maximilians-Universität München
 description: will talk about the new field of mathematical analysis of deep learning
 datetalk: 11th March, 14:00 CET
 importance: 2
-img: https://bm2l.github.io/assets/img/kutyniok.png
+img: /assets/img/kutyniok.png
 category: colloquia'24
 ---
 
