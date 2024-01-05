@@ -5,7 +5,7 @@ affiliation: Huawei Research Center France
 description: will talk about machine learning and topos theory
 datetalk: 8th February, 14:00 CET
 importance: 1
-img: https://bm2l.github.io//assets/img/lafforgue.png
+img: https://bm2l.github.io/assets/img/lafforgue.png
 category: colloquia'24
 ---
 
