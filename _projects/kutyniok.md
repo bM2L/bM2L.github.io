@@ -10,12 +10,7 @@ category: colloquia'24
 ---
 
 <p>
-
-
-
-<b>Abstract</b>: Artificial intelligence is currently leading to one breakthrough after the other, both in public life with, for instance, autonomous driving and speech recognition, and in the sciences in areas such as medical imaging or molecular dynamics. However, one current major drawback worldwide, in particular, in light of regulations such as the EU AI Act and the G7 Hiroshima AI Process, is the lack of reliability of such methodologies.
-
-In this lecture, we will provide an introduction into this vibrant research area, focussing specifically on deep neural networks. We will discuss the role of a theoretical perspective to this highly topical research direction, and survey the current state of the art in areas such as explainability. Finally, we will also touch upon fundamental limitations of neural network-based approaches.    
+<b>Abstract</b>: Artificial intelligence is currently leading to one breakthrough after the other, both in public life with, for instance, autonomous driving and speech recognition, and in the sciences in areas such as medical imaging or molecular dynamics. However, one current major drawback worldwide, in particular, in light of regulations such as the EU AI Act and the G7 Hiroshima AI Process, is the lack of reliability of such methodologies. In this lecture, we will provide an introduction into this vibrant research area, focussing specifically on deep neural networks. We will discuss the role of a theoretical perspective to this highly topical research direction, and survey the current state of the art in areas such as explainability. Finally, we will also touch upon fundamental limitations of neural network-based approaches.    
 </p> 
 
 
