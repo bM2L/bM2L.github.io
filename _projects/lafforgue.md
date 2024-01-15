@@ -11,7 +11,7 @@ category: colloquia'24
 
 <p>
 
-<b>Abstract</b>: The purpose of this talk will be to sketch a partial outline for building a new version of AI based on Grothendieck Topos Theory.
+<b>Abstract</b>: The purpose of this talk will be to sketch a partial outline for building a new version of AI based on Grothendieck Topos Theory.</br></br>
 
      We will first review some key facts which make Grothendieck toposes a natural interface between logic and topology or geometry. We will explain in particular in which sense the semantics of any first-order "geometric" theory can be incarnated by a topos, so by a mathematical object to which all intuitions of topological nature still apply.
 
