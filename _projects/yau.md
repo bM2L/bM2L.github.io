@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Shing-Tung Yau
-affiliation: Tsinghua University and the Chinese University of Hong Kong
+affiliation: Tsinghua University, Beijing
 description: will talk about the geometric understanding of deep learning
 datetalk: 18th April, 14:00 CET
 importance: 3
