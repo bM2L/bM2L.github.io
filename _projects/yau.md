@@ -5,7 +5,7 @@ affiliation: Tsinghua University and the Chinese University of Hong Kong
 description: will talk about the geometric understanding of deep learning
 datetalk: 18th April, 14:00 CET
 importance: 3
-img: /assets/img/publication_preview/yau.png
+img: /assets/img/publication_preview/yau2.png
 category: colloquia'24
 ---
 
