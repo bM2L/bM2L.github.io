@@ -3,7 +3,7 @@ layout: page
 permalink: /sign_up/
 title: sign up
 description: if you wish to attend, please enter your email address in the form below
-description: sign up now to get access to the Zoom/Teams room (if the maximum capacity is reached, you will receive a YouTube Live link)
+description: sign up now to get access to the Teams room (if you already signed up last year, you will automatically receive the link, no need to register again)
 nav: true
 nav_order: 5
 ---
