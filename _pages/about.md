@@ -20,7 +20,7 @@ social: false  # includes social icons at the bottom of the page  # Edit `_bibli
 The Barcelona Mathematics and Machine Learning (<b>b=M<sup>2</sup>L</b>) Colloquium Series aims to bring to a general audience of mathematicians, computer scientists and interested students the <b>interactions between mathematics and machine learning</b>, as well as their <b>latest developments</b>.
 
 
-What are the mathematics behind machine learning? What can machine learning do for mathematicians? <a href="sign_up">Sign up</a> to attend the <a href="2024">2024 colloquia</a>, including <b> Laurent Lafforgue </b>, <b>Gitta Kutyniok</b> and <b>Shing-Tung Yau</b>. And check the <a href="2024">2023 edition</a> to watch again the talks by <b>Marc Lackenby</b>, <b>Elizabeth Munch</b> and <b>Jürgen Jost</b>.
+What are the mathematics behind machine learning? What can machine learning do for mathematicians? <a href="sign_up">Sign up</a> to attend the <a href="2025">2025 colloquia</a>, including <b>Charles Fefferman</b>, <b>Kristin Lauter</b> and <b>Geordie Williamson</b>. Check the <a href="2024">2023 edition</a> to watch again the talks by <b>Marc Lackenby</b>, <b>Elizabeth Munch</b>, <b>Jürgen Jost</b>, <b> Laurent Lafforgue </b>, <b>Gitta Kutyniok</b> and <b>Shing-Tung Yau</b>.
 
 <!-- What are the mathematics behind machine learning? What can machine learning do for mathematicians? In 2023 we have had lectures by <b>Marc Lackenby</b>, <b>Elizabeth Munch</b> and <b>Jürgen Jost</b>. <a href="2023">Access here the recordings</a> and slides. <a href="sign_up">Sign up</a> if you wish to receive updates about the forthcoming 2024 colloquia. -->
 
