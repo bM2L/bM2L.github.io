@@ -25,4 +25,6 @@ What are the mathematics behind machine learning? What can machine learning do f
 
 <!-- What are the mathematics behind machine learning? What can machine learning do for mathematicians? In 2023 we have had lectures by <b>Marc Lackenby</b>, <b>Elizabeth Munch</b> and <b>Jürgen Jost</b>. <a href="2023">Access here the recordings</a> and slides. <a href="sign_up">Sign up</a> if you wish to receive updates about the forthcoming 2024 colloquia. -->
 
-This activity is organized by the <a href='https://www.uab.cat/web/maths-department-1210142393255.html'>Department of Mathematics at the Universitat Autònoma de Barcelona</a> with the goal of gathering the Barcelona universities and research centres with the global community. <b>Everyone is welcome to join and contribute! </b> <a href="mailto:%72%6F%62%65%72%74%6F.%72%75%62%69%6F@%75%61%62.%63%61%74" title="email">Contact us.</a> 
+This activity is organized by the <a href='https://www.uab.cat/web/maths-department-1210142393255.html'>Department of Mathematics at the Universitat Autònoma de Barcelona</a> with the goal of gathering the Barcelona universities and research centres with the global community.
+
+<b>Everyone is welcome to join and contribute! </b> <a href="mailto:%72%6F%62%65%72%74%6F.%72%75%62%69%6F@%75%61%62.%63%61%74" title="email">Contact us.</a> 
