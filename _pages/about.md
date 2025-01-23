@@ -6,7 +6,7 @@ subtitle: <b>Barcelona Mathematics and Machine Learning Colloquium Series</b>
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic-UAB.jpg
   image_circular: false # crops the image to make it circular
   address: >
     <p>Contact: <a href="https://mat.uab.cat/~rubio/" target="new">Roberto Rubio</a>    <a href="mailto:%72%6F%62%65%72%74%6F.%72%75%62%69%6F@%75%61%62.%63%61%74" title="email"><i class="fas fa-envelope"></i></a></p>
