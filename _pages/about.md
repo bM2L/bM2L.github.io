@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   address: >
     <p>Contact: <a href="https://mat.uab.cat/~rubio/" target="new">Roberto Rubio</a>    <a href="mailto:%72%6F%62%65%72%74%6F.%72%75%62%69%6F@%75%61%62.%63%61%74" title="email"><i class="fas fa-envelope"></i></a></p>
-	<p><img src="assets/img/uab.png" alt="UAB"></p>
+
 
 news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
