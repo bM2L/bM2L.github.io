@@ -3,7 +3,7 @@ layout: page
 title: Charles Fefferman
 affiliation: Princeton University
 description: will talk about 'Personal encounters with machine learning'
-datetalk: to be rescehduled
+datetalk: to be rescheduled
 importance: 1
 img: /assets/img/fefferman.png
 category: colloquia'25
