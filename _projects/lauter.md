@@ -2,7 +2,7 @@
 layout: page
 title: Kristin Lauter
 affiliation: FAIR, Meta + University of Washington
-description: will talk about 'Artificial Intelligence &amp; Cryptography: Privacy and Security in the AI era'
+description: will talk about 'Artificial Intelligence and Cryptography: Privacy and Security in the AI era'
 datetalk: 27 Mar, 17:00 CET
 importance: 2
 img: /assets/img/lauter.png
