@@ -11,7 +11,7 @@ category: colloquia'25
 
 <p>
 
-<b>Abstract</b>: I'll describe how I came to two very different results related to machine learning. One of those results is a uniqueness theorem: Under generic conditions, two neural nets that do exactly the same thing have the same architecture and parameters. The other result pertains to the problem of fitting a smooth (C^m) function to data. 
+<b>Abstract</b>: I'll describe how I came to two very different results related to machine learning. One of those results is a uniqueness theorem: Under generic conditions, two neural nets that do exactly the same thing have the same architecture and parameters. The other result pertains to the problem of fitting a smooth (C<sup>m</sup>) function to data. 
 </p> 
 
 
