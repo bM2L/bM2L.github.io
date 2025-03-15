@@ -11,7 +11,7 @@ category: colloquia'25
 
 <p>
 
-<b>Abstract</b>: How is Artificial Intelligence changing your life and the world? How do you expect your data to be kept secure and private in the future? Artificial intelligence (AI) refers to the science of utilizing data to formulate mathematical models that predict outcomes with high assurance. Such predictions can be used to make decisions automatically or give recommendations with high confidence. Cryptography is the science of protecting the privacy and security of data. This talk will explain the dynamic relationship between cryptography and AI and how AI can be used to attack post-quantum cryptosystems. 
+<b>Abstract</b>: How is Artificial Intelligence changing your life and the world? How do you expect your data to be kept secure and private in the future? Artificial intelligence (AI) refers to the science of utilizing data to formulate mathematical models that predict outcomes with high assurance. Such predictions can be used to make decisions automatically or give recommendations with high confidence. Cryptography is the science of protecting the privacy and security of data. This talk will explain the dynamic relationship between cryptography and AI and how AI can be used to attack post-quantum cryptosystems.   
 </p> 
 
 
