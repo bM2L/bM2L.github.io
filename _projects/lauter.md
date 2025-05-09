@@ -17,7 +17,10 @@ category: colloquia'25
 
 Click here to convert to your local time: <a href='https://www.timeanddate.com/worldclock/fixedtime.html?msg=B%3DM2L+-+Kristin+Lauter&iso=20250327T17&p1=31&ah=1&am=30' target='time'>27th March 17:00 CET </a> 
 
+<p>Watch the talk again:</p>
 
- <iframe width="560" height="315" src="https://www.youtube.com/embed/fEkykhE6NgE?si=r4h-vxd1PQpicc52" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<p> <iframe width="560" height="315" src="https://www.youtube.com/embed/fEkykhE6NgE?si=r4h-vxd1PQpicc52" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
 
-Click here to <a href="https://mat.uab.cat/~rubio/bM2L/Lauter-bM2L.pptx" target="slideslauter">download the slides</a>.
+<p>Read or <a href="https://mat.uab.cat/~rubio/bM2L/Lauter-bM2L.pptx" target="slideslauter">download</a> the slides.</p>
+
+<p><iframe src='https://view.officeapps.live.com/op/embed.aspx?src=[https://mat.uab.cat/~rubio/bM2L/Lauter-bM2L.pptx]' width='560' height='480' frameborder='0'></p>

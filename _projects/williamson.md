@@ -31,7 +31,7 @@ Click here to convert to your local time: <a href='https://www.timeanddate.com/w
 
 <!-- Click here to <a href="https://mat.uab.cat/~rubio/bM2L/Williamson-bM2L.pdf" target="slideslafforgue">download the slides</a>. -->
 
-<p> Read or download the slides:</p>
+<p> Read or <a href="https://mat.uab.cat/~rubio/bM2L/Williamson-bM2L.pdf" target="slideswilliamson">download</a> the slides:</p>
 
 <p><iframe
 	src="https://mat.uab.cat/~rubio/bM2L/Williamson-bM2L.pdf"
