@@ -22,18 +22,18 @@ I will focus on three different areas where AI has proven useful: extremal combi
 
 Click here to convert to your local time: <a href='https://www.timeanddate.com/worldclock/fixedtime.html?msg=B%3DM2L+-+Geordie+Williamson&iso=20250508T09&p1=31&ah=1&am=30' target='time'>8th May 9:00 CET </a>
 
-<p>Watch the talk again in video:</br>
+<p>Watch the talk again in video:</p>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j8VgacV5Gos?si=PXTvd5hDR1Hwkqmo&amp;start=9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> </p>
+<p><iframe width="560" height="315" src="https://www.youtube.com/embed/j8VgacV5Gos?si=PXTvd5hDR1Hwkqmo&amp;start=9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> </p>
 <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/6hiouvLnnzA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>-->
 
 
 
 <!-- Click here to <a href="https://mat.uab.cat/~rubio/bM2L/Williamson-bM2L.pdf" target="slideslafforgue">download the slides</a>. -->
 
-<p> Read or download the slides:</br>
+<p> Read or download the slides:</p>
 
-<iframe
+<p><iframe
 	src="https://mat.uab.cat/~rubio/bM2L/Williamson-bM2L.pdf"
 	width="560"
 	height="315"
