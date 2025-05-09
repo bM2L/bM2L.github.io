@@ -27,7 +27,7 @@ Click here to convert to your local time: <a href='https://www.timeanddate.com/w
 <p><iframe
 	src="https://mat.uab.cat/~rubio/bM2L/Lauter-bM2L.pdf"
 	width="560"
-	height="315"
+	height="305"
 	style="border:none"
 	title="Lauter-bM2L"
 ></iframe></p>

@@ -36,7 +36,7 @@ Click here to convert to your local time: <a href='https://www.timeanddate.com/w
 <p><iframe
 	src="https://mat.uab.cat/~rubio/bM2L/Williamson-bM2L.pdf"
 	width="560"
-	height="410"
+	height="400"
 	style="border:none"
 	title="Williamson-bM2L"
 ></iframe> 
