@@ -2,7 +2,7 @@
 layout: page
 title: Adi Shamir
 affiliation: Weizmann Institute of Science
-description: will talk his personal take on mathematics and machine learning
+description: will talk about his personal take on mathematics and machine learning
 datetalk: 16 Feb, 14:00 CET
 importance: 1
 img: /assets/img/shamir.png
