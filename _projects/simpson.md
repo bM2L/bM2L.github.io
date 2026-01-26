@@ -2,8 +2,8 @@
 layout: page
 title: Carlos Simpson
 affiliation: CNRS
-description: will talk about the interaction between proof assistants and reinforcement learning
-datetalk: March
+description: will talk about 'Reinforcement learning for proofs'
+datetalk: 12 March, 14:00 CET
 importance: 2
 img: /assets/img/simpson.png
 category: colloquia'26
