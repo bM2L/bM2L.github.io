@@ -19,16 +19,14 @@ Click here to convert to your local time: <a href='https://www.timeanddate.com/w
 
 <p>Watch the talk again:</p>
 
-<p> <iframe width="560" height="315" src="https://www.youtube.com/embed/fEkykhE6NgE?si=r4h-vxd1PQpicc52" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+<p> <iframe 	style="width: 100%; height: auto; aspect-ratio: 16 / 9 ; border: none;" src="https://www.youtube.com/embed/fEkykhE6NgE?si=r4h-vxd1PQpicc52" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
 
 <p>Read or <a href="https://mat.uab.cat/~rubio/bM2L/Lauter-bM2L.pptx" target="slideslauter">download</a> the slides:</p>
 
-
 <p><iframe
 	src="https://mat.uab.cat/~rubio/bM2L/Lauter-bM2L.pdf"
-	width="560"
-	height="305"
-	style="border:none"
+	style="width: 100%; height: auto; aspect-ratio: 16 / 9 ; border: none;"
 	title="Lauter-bM2L"
-></iframe></p>
+></iframe> 
 
+</p>

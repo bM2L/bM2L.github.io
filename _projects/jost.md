@@ -19,6 +19,14 @@ Click here to convert to your local time: 19th April <a href='https://www.timean
 
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DLy4Z_A9vic" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe 	style="width: 100%; height: auto; aspect-ratio: 16 / 9 ; border: none;" src="https://www.youtube.com/embed/DLy4Z_A9vic" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Click here to <a href="https://mat.uab.cat/~rubio/bM2L/Jost-bM2L.pdf" target="slidesjost">download the slides</a>.
+
+<p><iframe
+	src="https://mat.uab.cat/~rubio/bM2L/Jost-bM2L.pdf"
+	style="width: 100%; height: auto; aspect-ratio: 16 / 9 ; border: none;"
+	title="Jost-bM2L"
+></iframe> 
+
+</p>

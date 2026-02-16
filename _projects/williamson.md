@@ -24,7 +24,7 @@ Click here to convert to your local time: <a href='https://www.timeanddate.com/w
 
 <p>Watch the talk again:</p>
 
-<p><iframe width="560" height="315" src="https://www.youtube.com/embed/j8VgacV5Gos?si=PXTvd5hDR1Hwkqmo&amp;start=9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> </p>
+<p><iframe 	style="width: 100%; height: auto; aspect-ratio: 16 / 9 ; border: none;" src="https://www.youtube.com/embed/j8VgacV5Gos?si=PXTvd5hDR1Hwkqmo&amp;start=9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> </p>
 <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/6hiouvLnnzA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>-->
 
 

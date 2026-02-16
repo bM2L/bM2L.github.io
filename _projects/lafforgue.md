@@ -24,6 +24,14 @@ category: colloquia'24
 Click here to convert to your local time: <a href='https://www.timeanddate.com/worldclock/fixedtime.html?msg=B%3DM2L+-+Laurent+Lafforgue&iso=20240208T14&p1=31&ah=1&am=30' target='time'>8th February 14:00 CET </a>
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6hiouvLnnzA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe 	style="width: 100%; height: auto; aspect-ratio: 16 / 9 ; border: none;" src="https://www.youtube.com/embed/6hiouvLnnzA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Click here to <a href="https://mat.uab.cat/~rubio/bM2L/Lafforgue-bM2L.pdf" target="slideslafforgue">download the slides</a>.
+
+<p><iframe
+	src="https://mat.uab.cat/~rubio/bM2L/Lafforgue-bM2L.pdf"
+	style="width: 100%; height: auto; aspect-ratio: 16 / 9 ; border: none;"
+	title="Lafforgue-bM2L"
+></iframe> 
+
+</p>
