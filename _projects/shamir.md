@@ -19,7 +19,7 @@ Joint work with David Gerault, Anna Hambitzer and Eyal Ronen.
 
  Click here to convert to your local time: <a href='https://www.timeanddate.com/worldclock/fixedtime.html?msg=B%3DM2L+-+Adi+Shamir&iso=20260216T14&p1=31&ah=1&am=30' target='time'>16th February 14:00 CET </a> 
 
-<p> Please, note that the video of this talk is only available to our subscribers by request. </p>
+<p> Please, note that the video of this talk is only available to our subscribers upon request. </p>
 
 <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/6hiouvLnnzA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>-->
 
