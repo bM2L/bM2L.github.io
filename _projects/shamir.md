@@ -29,7 +29,7 @@ Joint work with David Gerault, Anna Hambitzer and Eyal Ronen.
 
 <p><iframe
 	src="https://mat.uab.cat/~rubio/bM2L/Shamir-bM2L.pdf"
-	style="width: 100%; border: none;"
+	style="width: 100%; height: auto: aspect-ratio: 16 / 9 ; border: none;"
 	title="Shamir-bM2L"
 ></iframe> 
 
