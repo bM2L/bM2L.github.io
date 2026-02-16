@@ -5,7 +5,7 @@ affiliation: Weizmann Institute of Science
 description: will talk about 'Deep Neural Cryptography'
 datetalk: 16 Feb, 14:00 CET
 importance: 1
-img: /assets/img/shamir.png
+img: /assets/img/shamir-deep.png
 category: colloquia'26
 ---
 
