@@ -18,6 +18,6 @@ category: colloquia'26
  Click here to convert to your local time: <a href='https://www.timeanddate.com/worldclock/fixedtime.html?msg=B%3DM2L+-+Carlos+Simpson&iso=20260312T14&p1=31&ah=1&am=30' target='time'>12th March 14:00 CET </a>
 
 
-<!-- <iframe 	style="width: 100%; height: auto; aspect-ratio: 16 / 9 ; border: none;" src="https://www.youtube.com/embed/j8VgacV5Gos?si=PXTvd5hDR1Hwkqmo&amp;start=9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>-->
+<iframe 	style="width: 100%; height: auto; aspect-ratio: 16 / 9 ; border: none;" src="https://www.youtube.com/embed/-HyaC-3TNjY?si=PXTvd5hDR1Hwkqmo&amp;start=91" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<!-- Click here to <a href="https://mat.uab.cat/~rubio/bM2L/Lafforgue-bM2L.pdf" target="slideslafforgue">download the slides</a>.-->
+Click here to <a href="https://mat.uab.cat/~rubio/bM2L/Simpson-bM2L.pdf" target="slidessimpson">download the slides</a>.
