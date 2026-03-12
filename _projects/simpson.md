@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Carlos Simpson
-affiliation: CNRS
+affiliation: CNRS, Université de Nice
 description: will talk about 'Reinforcement learning for proofs'
 datetalk: 12 March, 14:00 CET
 importance: 2
@@ -21,3 +21,11 @@ category: colloquia'26
 <iframe 	style="width: 100%; height: auto; aspect-ratio: 16 / 9 ; border: none;" src="https://www.youtube.com/embed/-HyaC-3TNjY?si=PXTvd5hDR1Hwkqmo&amp;start=91" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Click here to <a href="https://mat.uab.cat/~rubio/bM2L/Simpson-bM2L.pdf" target="slidessimpson">download the slides</a>.
+
+<p><iframe
+	src="https://mat.uab.cat/~rubio/bM2L/Simpson-bM2L.pdf"
+	style="width: 100%; height: auto; aspect-ratio: 16 / 9 ; border: none;"
+	title="Simpson-bM2L"
+></iframe> 
+
+</p>
