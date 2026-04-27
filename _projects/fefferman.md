@@ -15,9 +15,21 @@ category: colloquia'26
 </p> 
 
 
-<!-- Click here to convert to your local time: <a href='https://www.timeanddate.com/worldclock/fixedtime.html?msg=B%3DM2L+-+Charles+Fefferman&iso=20260427T15&p1=31&ah=1&am=30' target='time'>6th February 15:00 CET </a> -->
+Click here to convert to your local time: <a href='https://www.timeanddate.com/worldclock/fixedtime.html?msg=B%3DM2L+-+Charles+Fefferman&iso=20260427T15&p1=31&ah=1&am=30' target='time'>27th April 15:00 CET </a>
 
+<p>Watch the talk again:</p>
 
+<p><iframe 	style="width: 100%; height: auto; aspect-ratio: 16 / 9 ; border: none;" src="https://www.youtube.com/embed/KbkUc_9kjwI?si=JKGQhx7KG7Uf9H2X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> </p>
 <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/6hiouvLnnzA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>-->
 
-<!-- Click here to <a href="https://mat.uab.cat/~rubio/bM2L/Lafforgue-bM2L.pdf" target="slideslafforgue">download the slides</a>.-->
+
+
+<p> Read or <a href="https://mat.uab.cat/~rubio/bM2L/Fefferman-bM2L.pdf" target="slideswilliamson">download</a> the slides:</p>
+
+<p><iframe
+	src="https://mat.uab.cat/~rubio/bM2L/Fefferman-bM2L.pdf"
+	style="width: 100%; height: auto; aspect-ratio: 16 / 9 ; border: none;"
+	title="Fefferman-bM2L"
+></iframe> 
+
+</p>
